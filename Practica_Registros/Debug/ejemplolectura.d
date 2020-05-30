@@ -1,0 +1,1 @@
+ejemplolectura.o: ../ejemplolectura.cpp

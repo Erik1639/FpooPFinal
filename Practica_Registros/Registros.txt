@@ -1,0 +1,35 @@
+
+Datos ingresados
+Nombre: A
+Primer Apellido: q
+Segundo Apellido: wDia de Nacimiento: Mes de Nacimiento: Ano de Nacimiento: 
+Licenciatura: asd
+Cedula: fdsaa
+Medio de Contacto: qw
+Dato: gmail
+Datos ingresados
+Nombre: Jose
+Primer Apellido: Lopez
+Segundo Apellido: Sanchezde Nacimiento: acimiento: 
+Licenciatura: Arquitectura
+Cedula: 123456789
+Medio de Contacto: Celular
+Dato: 5539518770
+Datos ingresados
+Nombre: Daniel
+Primer Apellido: Landeros
+Segundo Apellido: SanvchesDia de Nacimiento: Mes de Nacimiento: h
+Licenciatura: Informatica
+Cedula: 123456
+Medio de Contacto: Gmail
+Dato: correo@gmail.com
+
+Datos ingresados
+Nombre: Erick
+Primer Apellido: Lopez
+Segundo Apellido: Gutierreze Nacimiento: Mes de Nacimiento: Ch
+Licenciatura: Informatica
+Cedula: 123456
+Medio de Contacto: Gamil
+Dato: el178951qgmail.com
+
